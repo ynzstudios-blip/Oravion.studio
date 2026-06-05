@@ -1,5 +1,5 @@
 /**
- * YNZ.studio — Official Website
+ * Oravion.studio — Official Website
  * Vanilla JS: loader, parallax, scroll reveal, card tilt, nav, form
  */
 
